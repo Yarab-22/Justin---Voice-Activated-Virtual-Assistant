@@ -57,6 +57,3 @@
 - `google-genai` – Google Gemini API integration  
 
 ---
-
-git clone https://github.com/yourusername/Justin-AI-Assistant.git
-cd Justin-AI-Assistant
